@@ -8,5 +8,7 @@ main() {
   i=j=9;
   printf("i=%d, j=%d\n",i,j);
   
+  i++;j++;
+  printf("i=%d, j=%d\n",i,j);
   
 }
